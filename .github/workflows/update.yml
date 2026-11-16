@@ -1,3 +1,4 @@
+# Fork note: also triggers via workflow_dispatch (Actions tab) to refresh ahead of the throttled schedule.
 name: Download new assets
 
 on:
